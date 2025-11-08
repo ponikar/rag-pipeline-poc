@@ -1,0 +1,5 @@
+- do not change anything non relevent
+- keep the changes minimal as much as possible
+- plan it before you make any changes.
+- always do a quick google search, if not sure how to use apis, stick to documentation.
+- do not make up any APIs, avoid making up things.
