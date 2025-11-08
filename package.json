@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@ai-sdk/google": "^2.0.29",
     "@google/generative-ai": "^0.24.1",
     "@langchain/community": "^1.0.0",
     "@langchain/core": "^1.0.3",
@@ -17,8 +18,11 @@
     "@langchain/langgraph": "^1.0.1",
     "@langchain/textsplitters": "^1.0.0",
     "@supabase/supabase-js": "^2.80.0",
+    "ai": "^5.0.89",
     "chromadb": "^3.1.1",
+    "dotenv": "^17.2.3",
     "pdf-parse": "1.1.1",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+    "zod": "^4.1.12"
   }
 }
